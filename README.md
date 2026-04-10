@@ -1,4 +1,4 @@
-# Patcher-for-Eclipse-s-mod
+# Patcher-for-Eclipse-s-mods
 
 A tool for patching an executable file to install the Eclipse's mod.
 
